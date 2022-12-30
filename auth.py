@@ -11,10 +11,10 @@ import asyncio
 
 proxy = {
     'proxy_type': 'http',
-    'addr': 'marina.onlinesim.ru',
-    'port': 19491,
-    'username': 'fkdo53kc',
-    'password': 'rdywc7dp',
+    'addr': '45.139.108.233',
+    'port': 8000,
+    'username': 'c4tQTr',
+    'password': 'SkqGUh',
     'rdns': False
 }
 
